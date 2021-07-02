@@ -13,5 +13,5 @@ public class Region {
     private Integer id;
     private Integer code;
     private String name;
-    private char status;
+    private Character   status;
 }
